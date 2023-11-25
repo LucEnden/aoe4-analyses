@@ -1,0 +1,25 @@
+{
+    "List of civilizations": {
+        "scope": "markdown,plaintext",
+        "prefix": "civlist",
+        "body": [
+            "- Abbasid Dynasty",
+            "- Chinse",
+            "- Delhi Sultanate",
+            "- English",
+            "- French",
+            "- Holy Roman Empire",
+            "- Malians",
+            "- Mongols",
+            "- Ottomans",
+            "- Rus",
+            "- Byzantines",
+            "- Japanese",
+            "- Ayyubids",
+            "- Jeanne d'Arc",
+            "- Order of the Dragon",
+            "- Zhu Xi's Legacy"
+        ],
+        "description": "List of all civilizations"
+    }
+}
